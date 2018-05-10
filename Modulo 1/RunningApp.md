@@ -1,5 +1,5 @@
 # Ejecutando la Aplicación
-En la lección anterior, creaste un proyecto de Android en el que se muestra la leyenda “Hello World”. Ahora podrás ejecutar la app en un dispositivo real o un emulador.
+Ahora podrás ejecutar la app en un dispositivo real o un emulador.
 
 ## Realizar la ejecución en un dispositivo real
 
