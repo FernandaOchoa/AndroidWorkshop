@@ -17,7 +17,7 @@ En este workshop, aprenderás a compilar tu primera app de Android. También apr
 * [Como ejecutar tu app](https://github.com/FernandaOchoa/AndroidWorkshop/blob/master/Modulo%201/RunningApp.md)
     * Realizar la ejecucion en un dispositivo real
     * Realizar la ejecucion en un emulador
-* Creacion de una interfaz de usuario sencilla
+* ![Creacion de una interfaz de usuario sencilla](https://github.com/FernandaOchoa/AndroidWorkshop/blob/master/Modulo%201/BuildingUI.md)
     * Abrir el editor de diseño
     * Agregar un cuadro de texto
     * Agregar un botón
