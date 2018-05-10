@@ -12,19 +12,19 @@ En este workshop, aprenderás a compilar tu primera app de Android. También apr
 * [**Hyper**](https://hyper.is/)
 
 ## Temas
-
+* [Fundamental de una aplicación Android](https://github.com/FernandaOchoa/AndroidWorkshop/blob/master/Modulo%201/Fundamentals.md)
 * [Como crear un proyecto de Android](https://github.com/FernandaOchoa/AndroidWorkshop/blob/master/Modulo%201/Creating%20Project.md)
 * [Como ejecutar tu app](https://github.com/FernandaOchoa/AndroidWorkshop/blob/master/Modulo%201/RunningApp.md)
     * Realizar la ejecucion en un dispositivo real
     * Realizar la ejecucion en un emulador
-* ![Creacion de una interfaz de usuario sencilla](https://github.com/FernandaOchoa/AndroidWorkshop/blob/master/Modulo%201/BuildingUI.md)
+* [Creacion de una interfaz de usuario sencilla](https://github.com/FernandaOchoa/AndroidWorkshop/blob/master/Modulo%201/BuildingUI.md)
     * Abrir el editor de diseño
     * Agregar un cuadro de texto
     * Agregar un botón
     * Cambiar las strings de IU
     * Hacer que el tamaño del cuadro de texto sea flexible
     * Ejecutar la app
-* Trabajando con multiples pantallas
+* [Trabajando con multiples pantallas](https://github.com/FernandaOchoa/AndroidWorkshop/blob/master/Modulo%201/StartingActivity.md)
     * Responder al botón send
     * Crear un intent
     * Crear una segunda activity
